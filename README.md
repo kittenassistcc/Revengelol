@@ -1,4 +1,5 @@
 ## Zerxal.lol
+## WILL BE PRIVATE SOON, TAPN
 Selling Whitelist For 15$ / 5000 Robux
 
 Device Supported : Everything (iOS, MacOS, PC, Mobile)
