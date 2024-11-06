@@ -6,7 +6,9 @@ Device Supported : Everything (iOS, MacOS, PC, Mobile)
 
 Executor Supported : Everything (Solara, Wave, ETC)
 
-Game Supported : Da Hood, Da Hood Copies, Blade Ball, Arsenal (Soon To Come)
+Game Supported : Da Hood, Da Hood Copies, Blade Ball, Arsenal, Rivals (Soon To Come)
+
+Preview :
 
 ## USERS : 2
 ## NOT SELLING SOURCE, DONT DM ME ABOUT IT
